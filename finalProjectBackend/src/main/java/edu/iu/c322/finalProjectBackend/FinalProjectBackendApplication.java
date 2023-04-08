@@ -1,13 +1,13 @@
-package com.example.demo;
+package edu.iu.c322.finalProjectBackend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RestaurantBackEndApplication {
+public class FinalProjectBackendApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(RestaurantBackEndApplication.class, args);
+		SpringApplication.run(FinalProjectBackendApplication.class, args);
 	}
 
 }

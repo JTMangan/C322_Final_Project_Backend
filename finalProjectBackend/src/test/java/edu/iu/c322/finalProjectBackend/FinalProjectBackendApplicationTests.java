@@ -1,10 +1,10 @@
-package com.example.demo;
+package edu.iu.c322.finalProjectBackend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RestaurantBackEndApplicationTests {
+class FinalProjectBackendApplicationTests {
 
 	@Test
 	void contextLoads() {

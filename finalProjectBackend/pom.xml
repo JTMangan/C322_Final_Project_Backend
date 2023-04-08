@@ -8,10 +8,10 @@
 		<version>3.0.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>edu.iu.c322.final</groupId>
-	<artifactId>restaurant_back_end</artifactId>
+	<groupId>edu.iu.c322</groupId>
+	<artifactId>finalProjectBackend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>restaurant_back_end</name>
+	<name>finalProjectBackend</name>
 	<description>Final Project for C322 Object Oriented Software Methods</description>
 	<properties>
 		<java.version>17</java.version>
